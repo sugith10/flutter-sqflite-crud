@@ -1,4 +1,4 @@
-# sqflite_10
+# SQflite_CRUD_Application
 
 A new Flutter project.
 
